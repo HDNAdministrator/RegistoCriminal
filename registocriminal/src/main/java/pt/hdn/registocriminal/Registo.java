@@ -6,7 +6,7 @@ import android.os.Parcelable;
 import com.google.gson.GsonBuilder;
 
 import java.time.ZonedDateTime;
-import java.util.List;\
+import java.util.List;
 
 import pt.hdn.registocriminal.adapters.ByteArrayTypeAdapter;
 import pt.hdn.registocriminal.adapters.ZonedDateTimeTypeAdapter;
